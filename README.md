@@ -21,3 +21,4 @@
 1. Выгружаем репозиторий `git clone https://github.com/ivan-zhirnov/linux2.git` и переходим в папку `cd linux2`
 2. Делаем скрипт исполняемым файлом: `chmod +x script.sh`
 3. Выполняем скрипт и передаем ему в качестве параметра путь до нашего лога: `./script.sh access.log`
+![](https://github.com/ivan-zhirnov/linux2/blob/main/%D0%BF%D0%B0%D1%80%D1%81%D0%B5%D1%80.jpg)
